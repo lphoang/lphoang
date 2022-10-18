@@ -20,17 +20,11 @@ Hoang</a></h1>
 
 <p align="center">
 
-<p align="center">
-
-   <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
-  
-</p>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/nhieupvpd03910">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nhieupvpd03910&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/lphoang">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lphoang&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lphoang&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
