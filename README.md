@@ -10,7 +10,7 @@ Hoang</a></h1>
 
 - 🌱 I’m currently Working on Back-end Development (Java)
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for freelancing (ReactJS, NodeJS, Spring).
 
 - 📫 How to reach me **lephuochoang1810@gmail.com**
 
