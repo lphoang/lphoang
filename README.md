@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/lphoang" target="blank">
 Hoang</a></h1>
-<h3 align="center">A passionate Back-end developer from Vietnam &#127470;&#127475</h3>
-
-<p align="left"> <img src="https://media-exp1.licdn.com/dms/image/C5603AQFTx-6fslQAww/profile-displayphoto-shrink_800_800/0/1631544624806?e=1671667200&v=beta&t=0lOiFEJx0BzZfEEqTXPnt8qlFP_wtJWR5yGQgIoYz00" alt="avatar" /> </p>
+<h3 align="center">A passionate Back-end developer from Vietnam</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
