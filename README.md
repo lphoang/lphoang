@@ -2,7 +2,7 @@
 Hoang</a></h1>
 <h3 align="center">A passionate Back-end developer from Vietnam</h3>
 
-- 🔭 I’m currently working in <a href="/" target="blank">FPT Software Vietnam</a>
+- 🔭 I’m currently working in <a href="https://www.mesoneer.io/de/" target="blank">mesoneer-ag</a>
 
 - 🌱 I’m currently Working on Back-end Development (Java)
 
